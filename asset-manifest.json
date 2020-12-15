@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/fsl-karimullah/Letter-App/static/css/main.dd9243ba.chunk.css",
-    "main.js": "/fsl-karimullah/Letter-App/static/js/main.38d719bf.chunk.js",
-    "main.js.map": "/fsl-karimullah/Letter-App/static/js/main.38d719bf.chunk.js.map",
-    "runtime-main.js": "/fsl-karimullah/Letter-App/static/js/runtime-main.9b1bca60.js",
-    "runtime-main.js.map": "/fsl-karimullah/Letter-App/static/js/runtime-main.9b1bca60.js.map",
-    "static/css/2.7ca5b7af.chunk.css": "/fsl-karimullah/Letter-App/static/css/2.7ca5b7af.chunk.css",
-    "static/js/2.2fbcea60.chunk.js": "/fsl-karimullah/Letter-App/static/js/2.2fbcea60.chunk.js",
-    "static/js/2.2fbcea60.chunk.js.map": "/fsl-karimullah/Letter-App/static/js/2.2fbcea60.chunk.js.map",
-    "index.html": "/fsl-karimullah/Letter-App/index.html",
-    "precache-manifest.93c3159da1cf8652a483880b2d33d69e.js": "/fsl-karimullah/Letter-App/precache-manifest.93c3159da1cf8652a483880b2d33d69e.js",
-    "service-worker.js": "/fsl-karimullah/Letter-App/service-worker.js",
-    "static/css/2.7ca5b7af.chunk.css.map": "/fsl-karimullah/Letter-App/static/css/2.7ca5b7af.chunk.css.map",
-    "static/css/main.dd9243ba.chunk.css.map": "/fsl-karimullah/Letter-App/static/css/main.dd9243ba.chunk.css.map",
-    "static/js/2.2fbcea60.chunk.js.LICENSE.txt": "/fsl-karimullah/Letter-App/static/js/2.2fbcea60.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/fsl-karimullah/Letter-App/static/media/outline-icons.ef60a4f6.woff",
-    "static/media/email.svg": "/fsl-karimullah/Letter-App/static/media/email.cd3e9ff5.svg",
-    "static/media/letterF.png": "/fsl-karimullah/Letter-App/static/media/letterF.909e3289.png",
-    "static/media/receive.svg": "/fsl-karimullah/Letter-App/static/media/receive.d7c46d95.svg"
+    "main.css": "/fsl-karimullah/Letter-App.git/static/css/main.dd9243ba.chunk.css",
+    "main.js": "/fsl-karimullah/Letter-App.git/static/js/main.1a3f33b0.chunk.js",
+    "main.js.map": "/fsl-karimullah/Letter-App.git/static/js/main.1a3f33b0.chunk.js.map",
+    "runtime-main.js": "/fsl-karimullah/Letter-App.git/static/js/runtime-main.97ffa64e.js",
+    "runtime-main.js.map": "/fsl-karimullah/Letter-App.git/static/js/runtime-main.97ffa64e.js.map",
+    "static/css/2.db484f68.chunk.css": "/fsl-karimullah/Letter-App.git/static/css/2.db484f68.chunk.css",
+    "static/js/2.8e13f52a.chunk.js": "/fsl-karimullah/Letter-App.git/static/js/2.8e13f52a.chunk.js",
+    "static/js/2.8e13f52a.chunk.js.map": "/fsl-karimullah/Letter-App.git/static/js/2.8e13f52a.chunk.js.map",
+    "index.html": "/fsl-karimullah/Letter-App.git/index.html",
+    "precache-manifest.f540201dbf55b3f5f0dd0527c17ec76f.js": "/fsl-karimullah/Letter-App.git/precache-manifest.f540201dbf55b3f5f0dd0527c17ec76f.js",
+    "service-worker.js": "/fsl-karimullah/Letter-App.git/service-worker.js",
+    "static/css/2.db484f68.chunk.css.map": "/fsl-karimullah/Letter-App.git/static/css/2.db484f68.chunk.css.map",
+    "static/css/main.dd9243ba.chunk.css.map": "/fsl-karimullah/Letter-App.git/static/css/main.dd9243ba.chunk.css.map",
+    "static/js/2.8e13f52a.chunk.js.LICENSE.txt": "/fsl-karimullah/Letter-App.git/static/js/2.8e13f52a.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/fsl-karimullah/Letter-App.git/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/email.svg": "/fsl-karimullah/Letter-App.git/static/media/email.cd3e9ff5.svg",
+    "static/media/letterF.png": "/fsl-karimullah/Letter-App.git/static/media/letterF.909e3289.png",
+    "static/media/receive.svg": "/fsl-karimullah/Letter-App.git/static/media/receive.d7c46d95.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b1bca60.js",
-    "static/css/2.7ca5b7af.chunk.css",
-    "static/js/2.2fbcea60.chunk.js",
+    "static/js/runtime-main.97ffa64e.js",
+    "static/css/2.db484f68.chunk.css",
+    "static/js/2.8e13f52a.chunk.js",
     "static/css/main.dd9243ba.chunk.css",
-    "static/js/main.38d719bf.chunk.js"
+    "static/js/main.1a3f33b0.chunk.js"
   ]
 }
